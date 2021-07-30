@@ -1,15 +1,12 @@
 body{
 	font-family:  Verdana, Arial, Helvetica, sans-serif;
-		/* Arial, Verdana, arial, helvetica;*/
-		/* Courier, "Courier New", Consolas, monospace */
+	
 
 	font-size:11px;
 	margin-left:10px;
 	margin-top:10px;
 	line-height: 1.5em;
-	/* background-image: url('/oval/img/bg-1.png');
-	background-position: 100% 100%;
-	*/
+
 }
 
 html{
@@ -20,4 +17,11 @@ html{
 	text-align: left;
 	float:left;
 	vertical-align: top;
+}
+#banner h1{
+	font-family: "Segoe UI", Arial, Helvetica, sans-serif;
+	color:#06c;	
+	font-size:36px;
+	margin-bottom:8px;
+	
 }
